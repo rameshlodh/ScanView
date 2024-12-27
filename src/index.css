@@ -1,0 +1,42 @@
+/* App.css */
+
+.App {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.summary, .details-table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+table {
+  width: 100%;
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+li {
+  margin: 5px 0;
+}
